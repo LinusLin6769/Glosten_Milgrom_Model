@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{EasleyOHara:1987}
+David Easley, Nicholas~M. Kiefer, Maureen O'Hara, and Joseph~B. Paperman.
+\newblock Liquidity, information, and infrequently traded stocks.
+\newblock {\em The Journal of Finance}, 51(4):1405--1436, 1996.
+
+\bibitem{gm:1985}
+Lawrence~R. Glosten and Paul~R. Milgrom.
+\newblock Bid, ask and transaction prices in a specialist market with
+  heterogeneously informed traders.
+\newblock {\em Journal of Financial Economics}, 13:71--100, 1985.
+
+\bibitem{gametheory:1994}
+Martin~J. Osborne and Ariel Rubinstein.
+\newblock {\em A Course in Game Theory}.
+\newblock MIT press, 1994.
+
+\bibitem{info:2020}
+Leo Touzo, Matteo Marsili, and Don Zagier.
+\newblock Information thermodynamics of financial markets: the glosten-milgrom
+  model.
+
+\end{thebibliography}

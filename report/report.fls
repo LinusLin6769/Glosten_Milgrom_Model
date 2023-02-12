@@ -1,0 +1,126 @@
+PWD /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report
+INPUT /Users/linyukuan/Library/TinyTeX/texmf.cnf
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.tex
+OUTPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.log
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.aux
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.aux
+OUTPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.aux
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+OUTPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.pdf
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/mu.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/mu.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/mu.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/welfare.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/welfare.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/welfare.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v2_efficiency_theta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v2_efficiency_theta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v2_efficiency_theta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v2_welfare_theta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v2_welfare_theta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v2_welfare_theta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig1_large_eta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig1_large_eta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig1_large_eta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig2_small_eta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig2_small_eta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig2_small_eta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig3_heatmap_fixed_mu_i.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig3_heatmap_fixed_mu_i.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig3_heatmap_fixed_mu_i.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig9_plot_all_eta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig9_plot_all_eta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig9_plot_all_eta.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig5_heatmap_fixed_eta_lt.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig5_heatmap_fixed_eta_lt.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig5_heatmap_fixed_eta_lt.png
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.bbl
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.bbl
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.aux
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb

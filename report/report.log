@@ -1,0 +1,257 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.5.24)  4 APR 2022 22:35
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.tex"
+(/Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15> (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen135
+)) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count175
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count176
+\leftroot@=\count177
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count178
+\DOTSCASE@=\count179
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
+\dotsspace@=\muskip16
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
+\tag@help=\toks16
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
+\andhelp@=\toks17
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks20
+\verbatim@line=\toks21
+\verbatim@in@stream=\read2
+) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks23
+) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count190
+\float@exts=\toks24
+\float@box=\box47
+\@float@everytoks=\toks25
+\@floatcapt=\box48
+) (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count191
+\l__pdf_internal_box=\box49
+) (/Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=505.89pt
+* \textheight=686.56499pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-55.06749pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/Users/linyukuan/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) [1
+
+{/Users/linyukuan/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+<./images/mu.png, id=31, 456.20438pt x 354.57469pt>
+File: ./images/mu.png Graphic file (type png)
+<use ./images/mu.png>
+Package pdftex.def Info: ./images/mu.png  used on input line 139.
+(pdftex.def)             Requested size: 273.72473pt x 212.74644pt.
+ [4 </Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/mu.png>]
+<./images/welfare.png, id=37, 1358.82657pt x 730.98094pt>
+File: ./images/welfare.png Graphic file (type png)
+<use ./images/welfare.png>
+Package pdftex.def Info: ./images/welfare.png  used on input line 153.
+(pdftex.def)             Requested size: 483.68268pt x 284.52373pt.
+ [5 </Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/welfare.png>]
+<./images/v2_efficiency_theta.png, id=42, 1806.75pt x 722.7pt>
+File: ./images/v2_efficiency_theta.png Graphic file (type png)
+<use ./images/v2_efficiency_theta.png>
+Package pdftex.def Info: ./images/v2_efficiency_theta.png  used on input line 172.
+(pdftex.def)             Requested size: 505.88655pt x 202.35461pt.
+<./images/v2_welfare_theta.png, id=43, 1084.05pt x 867.24pt>
+File: ./images/v2_welfare_theta.png Graphic file (type png)
+<use ./images/v2_welfare_theta.png>
+Package pdftex.def Info: ./images/v2_welfare_theta.png  used on input line 185.
+(pdftex.def)             Requested size: 487.818pt x 390.2544pt.
+ [6 </Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v2_efficiency_theta.png>] [7 </Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v2_welfare_theta.png>]
+<./images/v3_fig1_large_eta.png, id=53, 1445.4pt x 361.35pt>
+File: ./images/v3_fig1_large_eta.png Graphic file (type png)
+<use ./images/v3_fig1_large_eta.png>
+Package pdftex.def Info: ./images/v3_fig1_large_eta.png  used on input line 200.
+(pdftex.def)             Requested size: 505.89pt x 126.46887pt.
+<./images/v3_fig2_small_eta.png, id=54, 1445.4pt x 361.35pt>
+File: ./images/v3_fig2_small_eta.png Graphic file (type png)
+<use ./images/v3_fig2_small_eta.png>
+Package pdftex.def Info: ./images/v3_fig2_small_eta.png  used on input line 207.
+(pdftex.def)             Requested size: 505.89pt x 126.46887pt.
+<./images/v3_fig3_heatmap_fixed_mu_i.png, id=55, 1300.86pt x 433.62pt>
+File: ./images/v3_fig3_heatmap_fixed_mu_i.png Graphic file (type png)
+<use ./images/v3_fig3_heatmap_fixed_mu_i.png>
+Package pdftex.def Info: ./images/v3_fig3_heatmap_fixed_mu_i.png  used on input line 217.
+(pdftex.def)             Requested size: 505.89pt x 168.62811pt.
+ [8 </Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig1_large_eta.png> </Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig2_small_eta.png> </Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig3_heatmap_fixed_mu_i.png>]
+<./images/v3_fig9_plot_all_eta.png, id=62, 462.528pt x 346.896pt>
+File: ./images/v3_fig9_plot_all_eta.png Graphic file (type png)
+<use ./images/v3_fig9_plot_all_eta.png>
+Package pdftex.def Info: ./images/v3_fig9_plot_all_eta.png  used on input line 231.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./images/v3_fig5_heatmap_fixed_eta_lt.png, id=63, 1300.86pt x 433.62pt>
+File: ./images/v3_fig5_heatmap_fixed_eta_lt.png Graphic file (type png)
+<use ./images/v3_fig5_heatmap_fixed_eta_lt.png>
+Package pdftex.def Info: ./images/v3_fig5_heatmap_fixed_eta_lt.png  used on input line 238.
+(pdftex.def)             Requested size: 505.89pt x 168.62811pt.
+ [9 </Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig9_plot_all_eta.png> </Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/./images/v3_fig5_heatmap_fixed_eta_lt.png>] (/Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.bbl) [10] (/Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2174 strings out of 482424
+ 32779 string characters out of 5944450
+ 280574 words of memory out of 5000000
+ 17937 multiletter control sequences out of 15000+600000
+ 538933 words of font info for 47 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 30i,10n,34p,1393b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/linyukuan/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></Users/linyukuan/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "/Users/linyukuan/Desktop/Agent Based Modeling in Finance/Coursework/Glosten Milgrom/GM_report/report/report.pdf" (10 pages, 803609 bytes).
+PDF statistics:
+ 137 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
